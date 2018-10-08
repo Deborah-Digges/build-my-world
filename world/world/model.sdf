@@ -1,6 +1,7 @@
 <?xml version='1.0'?>
 <sdf version='1.6'>
   <model name='world'>
+    <plugin name="welcome_message" filename="libwelcome_message.so"/>
     <pose frame=''>-1.315 2.805 0 0 -0 0</pose>
     <link name='Wall_0'>
       <pose frame=''>5.3 -3.475 0 0 -0 0</pose>
