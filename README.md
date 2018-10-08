@@ -23,7 +23,7 @@ export GAZEBO_MODEL_PATH=${GAZEBO_MODEL_PATH}:/home/workspace/myrobot/model
 ## Open the world
 
 ```
-gazebo myrobot/world/myworld
+gazebo myrobot/world/myworld.world
 ```
 
 
